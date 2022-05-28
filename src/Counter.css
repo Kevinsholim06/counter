@@ -1,0 +1,12 @@
+button{
+    margin: 20px;
+    background-color: blue;
+    color: azure;
+    padding: 10px;
+    border-radius: 7px;
+    border-color: blueviolet;
+}
+body{
+    background-color: aqua;
+    
+}
